@@ -6,6 +6,8 @@
 - 🌱 I’m currently learning **NextJs and React Native**
 
 - 💼 Actively Seeking **Full-time Jobs/ Internships**
+  
+- 👨‍💻 My Portfolio **https://arpanvijay.vercel.app/**
 
 - 📫 Reach me at **arpanvijay18@gmail.com**
 
