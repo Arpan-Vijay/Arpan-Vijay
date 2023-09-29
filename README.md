@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arpan Vijay</h1>
-<h3 align="center">Frontend Developer based in Kota, Rajasthan 📍</h3>
+<h3 align="center">Transforming Code into User Experiences 🚀💻✨</h3>
 
 - 🔭 I’m currently working on **Software Development**
 
